@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h:form >
+            El profesor/a informa sobre los distintos aspectos de la guía docente o programa de la asignatura (objetivos, actividades, contenidos del temario, metodología, bibliografía, sistemas de evaluación.
+            <br/><br/>
+            <h:selectOneRadio value="#{evalua.evaluacion}" required="true">
+                <f:selectItem itemValue="4" itemLabel="Muy alto"/>
+                <f:selectItem itemValue="3" itemLabel="Alto"/>
+                <f:selectItem itemValue="2" itemLabel="Medio"/>
+                <f:selectItem itemValue="1" itemLabel="Bajo"/>
+            </h:selectOneRadio>
+            <h:commandButton type="submit" action="#{realizarEvaluacion.evaluar2()}" value="Siguiente pregunta"/>
+        </h:form>
+    </h:body>
+</html>

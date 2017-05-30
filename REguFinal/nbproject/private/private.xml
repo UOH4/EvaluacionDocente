@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/evaluacion.xhtml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/modelo/Alumno.hbm.xml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/modelo/Evalua.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/controlador/RevisarEvaluaciones.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/evaluaciones.xhtml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/index.xhtml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/dao/HibernateAlumnoDAO.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/dao/EvaluaDAO.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/dao/AlumnoDAO.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/respuestaSinEvaluacion.xhtml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/principal.xhtml</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/modelo/Docente.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/controlador/Login.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/modelo/Alumno.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/dao/DocenteDAO.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/src/java/dao/HibernateEvaluaDAO.java</file>
+            <file>file:/C:/Users/Esn/Documents/NetBeansProjects/REguFinal/web/respuestaConEvaluacion.xhtml</file>
+        </group>
+    </open-files>
+</project-private>

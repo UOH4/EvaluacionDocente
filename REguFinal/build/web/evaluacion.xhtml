@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+        <title>Facelet Title</title>
+    </h:head>
+    <h:body>
+        <h:form >
+            Alumno: ${sessionScope.NomUser}<h:commandButton type="submit" value="Salir" action="index"/>
+            <br/><br/>
+            Instrucciones;
+            <br/><br/>
+            
+            <p><a href="preguntas/pregunta1.xhtml" target="iframe_a">Empezar evaluación</a></p>
+        <iframe height="300px" width="100%" href="respuestaConEvaluacion.xhtml" name="iframe_a"></iframe>
+        </h:form>
+    </h:body>
+</html>
